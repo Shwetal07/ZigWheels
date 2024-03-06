@@ -1,0 +1,32 @@
+15:15:34.572 [main] INFO  bikesMain.DisplayNewBikes - clicked on newbikes and selected upcoming bikes 
+15:15:37.766 [main] INFO  bikesMain.DisplayNewBikes - select dropdown
+15:15:37.774 [main] INFO  bikesMain.DisplayNewBikes - clicked honda in dropdown
+15:15:39.374 [main] INFO  bikesMain.DisplayNewBikes - scrolling to view more filters
+15:15:41.079 [main] INFO  bikesMain.DisplayNewBikes - printing the upcoming honda bikes under 4 lakh
+15:15:44.638 [main] INFO  bikesMain.DisplayNewBikes - Navigate to second page
+15:15:44.648 [main] INFO  bikesMain.DisplayNewBikes - click on usedCars 
+15:15:46.396 [main] INFO  bikesMain.DisplayNewBikes - Click chennai as city
+15:15:50.462 [main] INFO  bikesMain.DisplayNewBikes - scrolling to popularmodels;
+15:15:57.576 [main] INFO  bikesMain.DisplayNewBikes - Clicking login button
+15:16:03.678 [main] INFO  bikesMain.DisplayNewBikes - Click on the google
+15:16:07.114 [main] INFO  bikesMain.DisplayNewBikes - Opening new Window
+15:16:13.735 [main] INFO  bikesMain.DisplayNewBikes - Entering Email
+15:16:14.820 [main] INFO  bikesMain.DisplayNewBikes - Clicking Next
+15:16:15.609 [main] INFO  bikesMain.DisplayNewBikes - Error Msg Captured
+16:06:21.257 [main] INFO  bikesMain.DisplayNewBikes - clicked on newbikes and selected upcoming bikes 
+16:06:24.038 [main] INFO  bikesMain.DisplayNewBikes - select dropdown
+16:06:24.046 [main] INFO  bikesMain.DisplayNewBikes - clicked honda in dropdown
+16:06:24.918 [main] INFO  bikesMain.DisplayNewBikes - scrolling to view more filters
+16:06:27.026 [main] INFO  bikesMain.DisplayNewBikes - printing the upcoming honda bikes under 4 lakh
+16:06:29.834 [main] INFO  bikesMain.DisplayNewBikes - Navigate to second page
+16:06:29.843 [main] INFO  bikesMain.DisplayNewBikes - click on usedCars 
+16:06:31.415 [main] INFO  bikesMain.DisplayNewBikes - Click chennai as city
+16:06:36.674 [main] INFO  bikesMain.DisplayNewBikes - scrolling to popularmodels;
+16:06:40.938 [main] INFO  bikesMain.DisplayNewBikes - Clicking login button
+16:06:46.331 [main] INFO  bikesMain.DisplayNewBikes - Click on the google
+16:06:49.026 [main] INFO  bikesMain.DisplayNewBikes - Opening new Window
+16:06:55.503 [main] INFO  bikesMain.DisplayNewBikes - Entering Email
+16:06:56.401 [main] INFO  bikesMain.DisplayNewBikes - Clicking Next
+16:06:56.906 [main] INFO  bikesMain.DisplayNewBikes - Error Msg Captured
+10:29:19.193 [main] INFO  stepDefination.Newbikes - Website opened
+10:29:19.699 [main] INFO  stepDefination.Newbikes - click on usedCars 
